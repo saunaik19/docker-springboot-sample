@@ -23,3 +23,9 @@ docker images
 
 
 **DO NOT RUN THBIS FROM WINDOWS**
+user windows subsystem
+
+
+using docker file
+
+docker build -t saunaik19/docker-springboot-sample:dockerfile .
